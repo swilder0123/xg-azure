@@ -76,7 +76,7 @@ Test the Template UI
 
 Press the following button to do a test deployment of the UI page:
 
-* [![Test UI Page](https://azuredeploy.net/deploybutton.png)](https://ms.portal.azure.com/microsoft.onmicrosoft.com/?clientOptimizations=false#blade/Microsoft_Azure_Compute/CreateMultiVmWizardBlade/internal_bladeCallId/anything/internal_bladeCallerParams/{"initialData":{},"providerConfig":{"createUiDefinition":"https%3A%2F%2Fraw.githubusercontent.com%2Fswilder0123%2Fxg-azure%2Fchange1%2FcreateUiDefinition.json"}})
+[![Test UI Page](https://azuredeploy.net/deploybutton.png)](https://ms.portal.azure.com/microsoft.onmicrosoft.com/?clientOptimizations=false#blade/Microsoft_Azure_Compute/CreateMultiVmWizardBlade/internal_bladeCallId/anything/internal_bladeCallerParams/{"initialData":{},"providerConfig":{"createUiDefinition":"https%3A%2F%2Fraw.githubusercontent.com%2Fswilder0123%2Fxg-azure%2Fchange1%2FcreateUiDefinition.json"}})
 
 ***
 
