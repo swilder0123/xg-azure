@@ -64,17 +64,17 @@
                     {
                         "name": "vmCount",
                         "type": "Microsoft.Common.OptionsGroup",
-                        "label": "Node Count",
+                        "label": "Availability",
                         "defaultValue": "One",
-                        "toolTip": "Choose either one or two nodes for the deployment",
+                        "toolTip": "Select HA for a high availability deployment.",
                         "constraints": {
                             "allowedValues": [
                                 {
-                                    "label": "1",
+                                    "label": "Non HA",
                                     "value": "1"
                                 },
                                 {
-                                    "label": "2",
+                                    "label": "HA",
                                     "value": "2"
                                 }
                             ]
